@@ -1,11 +1,11 @@
 # Sales-Analytics-Visualization-using-Power-BI-Pizza-Business-Dashboards
 
-**📝 Project Overview**
+**📝 PROJECT OVERVIEW**
 
 Designed and developed interactive sales dashboards using Power BI to analyze 12 months of transaction data from a pizza business. The project aimed to uncover performance trends, customer behavior, and revenue distribution to support strategic decision-making in the Quick Service Restaurant (QSR) industry.
 
 
-**🎯 Objectives**
+**🎯 OBJECTIVES**
 
 ●Identify top-performing pizza categories and sizes.
 
@@ -19,7 +19,7 @@ Designed and developed interactive sales dashboards using Power BI to analyze 12
 
 
 
-**🛠 Tools & Technologies**
+**🛠 TOOLS & TECHNOLOGIES**
 
 ●Power BI: Dashboard development, data modeling, and DAX-based KPI calculations.
 
@@ -29,7 +29,7 @@ Designed and developed interactive sales dashboards using Power BI to analyze 12
 
 
 
-**🔍 Key Features**
+**🔍 KEY FEATURES**
 
 ●Visual KPIs for total sales, average order value, and order volume.
 
@@ -41,7 +41,7 @@ Designed and developed interactive sales dashboards using Power BI to analyze 12
 
 
 
-**💼 Business Context**
+**💼 BUSINESS CONTEXT**
 
 ●Domain: Business Intelligence & Sales Analytics.
 
@@ -50,8 +50,7 @@ Designed and developed interactive sales dashboards using Power BI to analyze 12
 ●Use Case: Enhancing operational and marketing strategies using data insights.
 
 
-
-**✅ Project Outcome**
+**✅ PROJECT OUTCOME**
 
 ●Delivered two fully functional, insight-driven dashboards.
 
