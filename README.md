@@ -5,13 +5,18 @@ Designed and developed interactive sales dashboards using Power BI to analyze 12
 
 **🎯 Objectives**
 Identify top-performing pizza categories and sizes.
+
 Track monthly and daily sales trends across seasons.
+
 Analyze customer ordering behavior and preferences.
+
 Visualize revenue contributions by category, type, and size.
+
 Enable data-driven decisions for pricing, promotions, and inventory.
 
 **🛠 Tools & Technologies**
 Power BI: Dashboard development, data modeling, and DAX-based KPI calculations.
+
 Microsoft Excel: Data cleaning and transformation.
 DAX (Data Analysis Expressions): For advanced time intelligence and custom measures.
 
